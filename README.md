@@ -6,7 +6,7 @@
 <p float="left" align="center">
   <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="40%" alt="sunset"/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" alt="Coding gif"/>
-  <img src="https://i.pinimg.com/736x/af/ca/ca/afcacac46e8eb7b7ec9a0fed03b75551.jpg" width="17%" alt="IMG"/>
+  <img src="https://i.pinimg.com/736x/a2/2d/b9/a22db921acabfeed3b169f9189b59566.jpg" width="29%" alt="IMG"/>
 </p>
 
 ---
