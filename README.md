@@ -33,7 +33,7 @@
 ## 🎓 Education  
 - **B.E. Artificial Intelligence & Data Science** — PES Modern College of Engineering, Pune *(2024–2027)*  
 - **Diploma in Computer Engineering** — Puranmal Lahoti Government Polytechnic, Latur *(2021–2024)* — *89.71%*  
-- **Saraswati Vidyalaya, Latur** — *98%*  
+<!--- **Saraswati Vidyalaya, Latur** — *98%*  -->
 
 ---
 
@@ -94,6 +94,6 @@
 <!-- Footer Hacker GIFs Row -->
 <p float="left" align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30%" alt="Matrix rain"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30%" alt="Networking globe"/>
-  <img src="YOUR_GIF_LINK_EXTRA" width="30%" alt="Custom hacker gif"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="35%" alt="Networking globe"/>
+  <img src="https://media.tenor.com/Lpale9TdccwAAAAd/anime-gif.gif" width="15%" alt="Custom hacker gif"/>
 </p>
