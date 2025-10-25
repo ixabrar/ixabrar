@@ -2,12 +2,17 @@
 <h1 align="center">Hi 👋, I'm Abrar Shaikh</h1>
 <h3 align="center">💻 Developer | 🔐 Cybersecurity Enthusiast | 🌐 Networking Explorer</h3>
 
-<!-- Top Banner GIFs (replace links with your own) -->
+<!-- Top Banner GIFs -->
 <p float="left" align="center">
   <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="40%" alt="sunset"/>
-  <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" alt="Coding gif"/> -->
   <img src="https://i.pinimg.com/736x/a2/2d/b9/a22db921acabfeed3b169f9189b59566.jpg" width="29%" alt="IMG"/>
 </p>
+
+---
+## 🛡️ TryHackMe Badge
+<img src="https://tryhackme-badges.s3.amazonaws.com/shaikhabrar1422.png" alt="Your Image Badge" />
+
+
 
 ---
 
@@ -30,10 +35,10 @@
 ---
 
 
+
 ## 🎓 Education  
 - **B.E. Artificial Intelligence & Data Science** — PES Modern College of Engineering, Pune *(2024–2027)*  
 - **Diploma in Computer Engineering** — Puranmal Lahoti Government Polytechnic, Latur *(2021–2024)* — *89.71%*  
-<!--- **Saraswati Vidyalaya, Latur** — *98%*  -->
 
 ---
 
@@ -76,8 +81,6 @@
 **Databases:** MongoDB, MySQL, PL/SQL  
 **Tools & Platforms:** Docker, Linux/UNIX, XAMPP, Restful APIs, Android Studio  
 **Other Strengths:** UI/UX, Presentations, Quick Learning, Cybersecurity Passion  
-
-
 
 ---
 
