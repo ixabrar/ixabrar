@@ -1,104 +1,87 @@
-<!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Abrar Shaikh</h1>
-<h3 align="center">💻 Developer | 🔐 Cybersecurity Enthusiast | 🌐 Networking Explorer</h3>
+# Abrar Shaikh
 
-<!-- Top Banner GIFs -->
-<p float="left" align="center">
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="40%" alt="sunset"/>
-  <img src="https://i.pinimg.com/736x/a2/2d/b9/a22db921acabfeed3b169f9189b59566.jpg" width="29%" alt="IMG"/>
-</p>
-
----
-## 🛡️ TryHackMe Badge
-<img src="https://tryhackme-badges.s3.amazonaws.com/notAbrar.png" alt="Your Image Badge" />
-
-
-
-
+Backend and web developer working with **PHP, WordPress, and JavaScript**, with experience across **full-stack applications (MERN)**, **networking fundamentals**, and **system-level thinking**.
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning: **Networking, Penetration Testing, Automation, Ethical Hacking, Data Analytics**  
-- 🔭 Working on: **Hackathon Projects**  
-- 👯 Open to collaborate on: **Cybersecurity & Networking**  
-- 💬 Ask me about: **Networking, Cybersecurity, MERN Development**  
-- ⚡ Fun Fact: **I like to build what finds me interesting !!!**  
-- 📫 Reach me: **shaikhabrar1422@gmail.com**  
+## Core Work
+- Backend development using PHP and JavaScript
+- WordPress themes, plugins, and application architecture
+- API-driven systems and data handling
+- Git-based workflows and collaborative development
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikhabrar&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhabrar&theme=radical" height="180px"/>
-</p>
+## Selected Projects
+
+### Readx — Reading Room Management System
+Backend-centric web application with:
+- Authentication and role-based access
+- Notifications and analytics
+- RESTful API architecture  
+**Tech:** MongoDB, Express, React, Node.js
+
+### WheelData Manager
+Data management system focused on:
+- Real-time data processing
+- Trend analysis and visualization
+
+### Dockerized TODO Application
+Backend application demonstrating:
+- Containerized deployment
+- Secure user authentication
+- Clean API structure  
+**Tech:** Flask, MongoDB, Docker
 
 ---
 
+## Experience
 
-
-## 🎓 Education  
-- **B.E. Artificial Intelligence & Data Science** — PES Modern College of Engineering, Pune *(2024–2027)*  
-- **Diploma in Computer Engineering** — Puranmal Lahoti Government Polytechnic, Latur *(2021–2024)* — *89.71%*  
-
----
-
-## 💼 Work Experience  
-- **JavaScript Developer Intern — OmSai Infotech Ltd.** *(Apr 2023 – Jun 2024)*  
-  - Hands-on experience with **JavaScript, PHP, and XAMPP**.  
-  - Worked on real-world projects applying core development skills.  
+**JavaScript Developer Intern — OmSai Infotech Ltd.**  
+*Apr 2023 – Jun 2024*
+- Worked with JavaScript, PHP, and XAMPP
+- Contributed to production web applications
+- Debugged, maintained, and improved existing systems
 
 ---
 
-## 🛠️ Projects  
-- **📚 Readx — Reading Room Management App**  
-  MERN stack app with **multi-login, notifications, and Chart.js analytics**.  
+## Technical Scope
 
-- **📊 WheelData Manager**  
-  Data management tool with **real-time analysis & trend visualization**.  
+### Web & Backend
+- PHP, JavaScript
+- WordPress, MERN Stack
+- REST APIs, authentication flows
+- MySQL, MongoDB
 
-- **✅ Dockerized TODO Application**  
-  Flask + MongoDB + Docker = **secure containerized TODO app with user auth**.  
+### Networking & Systems
+- Networking fundamentals (HTTP, DNS, TCP/IP)
+- Linux environments and system tooling
+- Understanding application behavior in real deployments
 
----
-
-## 📜 Certifications  
-- **Incident Response, Business Continuity & DR Concepts** — ISC2 *(July 2025)*  
-- **Tata Cybersecurity Analyst Simulation** — Forage *(Jan 2025)*  
-- **Mastercard Cybersecurity Experience Program** — Forage *(Jan 2025)*  
-- **Python for Data Science** — IBM Cognitive Classes *(Dec 2024)*  
-- **Networking Basics** — Cisco Networking Academy *(July 2024)*  
-
----
-
-## 🏆 Achievements  
-- 🥇 Winner — **State Level Project Competition (Vertex 2024)**  
-- 🥈 2nd Place — **Smart India Hackathon (SIH 2024)**  
+### Security (Applied Interest)
+- Secure coding practices
+- Awareness of common web vulnerabilities
+- Interest in how security integrates into software systems
 
 ---
 
-## ⚡ Skills  
-**Languages & Frameworks:** JavaScript, Python, Java, PHP, React, Express.js, Flask, Chart.js  
-**Databases:** MongoDB, MySQL, PL/SQL  
-**Tools & Platforms:** Docker, Linux/UNIX, XAMPP, Restful APIs, Android Studio  
-**Other Strengths:** UI/UX, Presentations, Quick Learning, Cybersecurity Passion  
+## Education
+- **B.E. Artificial Intelligence & Data Science**  
+  PES Modern College of Engineering, Pune (2024–2027)
+
+- **Diploma in Computer Engineering**  
+  Government Polytechnic, Latur (2021–2024)
 
 ---
 
-## 🌍 Connect with Me  
-<p align="left">
-  <a href="mailto:shaikhabrar1422@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a>
-  <a href="https://www.linkedin.com/in/abrar-shaikh-ai/"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
-  <a href="https://YOUR-BLOG-LINK"><img src="https://img.icons8.com/fluency/48/blog.png"/></a>
-</p>  
+## Working Style
+- Preference for reading and understanding existing code before changing it
+- Focus on small, correct improvements rather than rushed features
+- Comfortable working in structured, review-driven environments
 
 ---
 
-<!-- Footer Hacker GIFs Row -->
-<p float="left" align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30%" alt="Matrix rain"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="35%" alt="Networking globe"/>
-  <img src="https://media.tenor.com/Lpale9TdccwAAAAd/anime-gif.gif" width="15%" alt="Custom hacker gif"/>
-</p>
+## Contact
+- Email: shaikhabrar1422@gmail.com  
+- GitHub: https://github.com/ixabrar  
+- LinkedIn: https://www.linkedin.com/in/abrar-shaikh-ai/
