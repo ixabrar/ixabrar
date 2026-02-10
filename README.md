@@ -120,7 +120,7 @@ Data management and visualization system.
 ---
 
 ## Education
-- **B.E. Artificial Intelligence & Data Science**  
+- **T.E. Artificial Intelligence & Data Science**  
   PES Modern College of Engineering, Pune (2024–2027)
 
 - **Diploma in Computer Engineering**  
